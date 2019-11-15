@@ -9,7 +9,7 @@ The code is largely based on a tutorial from machinelearningmastery.com.
 ## Instructions:
 
 1. In order to use train the model and make inferences you have to first download
-the dogs-vs-cats dataset from Kaggle.com, unzip them, and put the train/  
+the dogs-vs-cats dataset from Kaggle.com, unzip them, and put the train\/  
 directory in the same directory as the scripts in the repository.
 
 2. Then create an empty test/ directory in the same directory as the scripts in

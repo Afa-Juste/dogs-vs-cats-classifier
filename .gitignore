@@ -1,0 +1,4 @@
+model.h5
+train/
+test/
+dataset_dogs_vs_cats

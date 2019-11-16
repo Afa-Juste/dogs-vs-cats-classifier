@@ -12,13 +12,13 @@ The code is largely based on a tutorial from machinelearningmastery.com.
 the dogs-vs-cats dataset from Kaggle.com, unzip them, and put the train\/  
 directory in the same directory as the scripts in the repository.
 
-2. Then create an empty test/ directory in the same directory as the scripts in
+2. Create an empty test/ directory in the same directory as the scripts in
 the repo, and put the unzipped test1/ directory inside it. This is required in
 order to properly do inference with the inference.py script.
 
 3. Run the directory_preparer.py script to organize the dataset in the
-way the ImageDataGenerator class from tensorflow.keras class requires.
+way the ImageDataGenerator from tensorflow.keras class requires.
 
-4. Second, run the train.py script to train the model.
+4. Run the train.py script to train the model.
 
-5. Lastly, run the inference.py script
+5. Run the inference.py script

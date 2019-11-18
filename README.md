@@ -21,4 +21,4 @@ way the ImageDataGenerator from tensorflow.keras class requires.
 
 4. Run the train.py script to train the model.
 
-5. Run the inference.py script
+5. Run the inference.py script.

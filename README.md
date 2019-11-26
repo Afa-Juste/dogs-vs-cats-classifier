@@ -1,9 +1,7 @@
 # dogs-vs-cats-classifier
 
 This is a binary classifier CNN that uses a pretrained VGG16 feature extractor
-net. it distinguishes between images of dogs and cats with an accuracy of 97%.
-
-The code is largely based on a tutorial from machinelearningmastery.com.
+net. It distinguishes between images of dogs and cats with an accuracy of 97%.
 
 
 ## Instructions:
